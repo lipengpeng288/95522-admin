@@ -25,7 +25,7 @@
                             <a-input v-model:value="value" class="input" placeholder="输入想搜索的内容" />
                             <search-outlined />
                             <bell-outlined />
-                            <img src="../src/assets/logo.png" class="avatar" />
+                            <img src="../src/assets/avatar.jpg" class="avatar" />
                             <span>张三</span>
                         </div>
                     </div>
